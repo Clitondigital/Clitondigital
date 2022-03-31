@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Clitondigital
-- 👀 I’m a frontend development 
+- 👀 I’m a frontend developer 
 - 🌱 I’m currently learning web3 dev ...
 - 💞️ I’m looking to collaborate on frontend projects ...
 - 📫 How to reach me digitalclinton21@gmail.com 
